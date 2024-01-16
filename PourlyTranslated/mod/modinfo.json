@@ -1,0 +1,10 @@
+{
+	"id": "ascdragonite.G_Translate",
+	"name": "Poorly Translated",
+	"version": "1.0.0",
+	"authors": "Rekku484, ascdragonite",
+	"description": "This mod poorly translates Rain World Downpour. The texts was ran through 64 languages and translating back to English. This mod will also translate Expedition and Jolly Co-op",
+	"requirements": [ "rwremix", "moreslugcats"],
+	"requirements_names": [ "Rain World Remix", "More Slugcats Expansion", "Jolly Co-op", "Expedition" ],
+	"checksum_override_version": true
+}
